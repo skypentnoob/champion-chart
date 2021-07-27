@@ -1,0 +1,8 @@
+{
+  "name": "champion-chart",
+  "description": "champion island games chart",
+  "version": "1.0.0",
+  "engines": {
+    "node": "16.x"
+  }
+}
